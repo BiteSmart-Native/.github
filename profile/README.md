@@ -13,20 +13,6 @@ Welcome to **BiteSmart**, the native iOS app designed to help you transform ever
 
 ---
 
-## **Screenshots**
-
-### Login Screen
-
-### Profile View
-
----
-
-## **Contributing**
-
--Closed-
-
----
-
 ## **Contact**
 
 For questions or feedback, feel free to reach out:
