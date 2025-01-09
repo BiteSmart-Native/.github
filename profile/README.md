@@ -7,8 +7,7 @@ Welcome to **BiteSmart**, the native iOS app designed to help you transform ever
 ## **Tech Stack**
 
 - **Language**: Swift, JavaScript
-- **Framework**: SwiftUI, Node.JS, Python
-- **Authentication**: Firebase Authentication
+- **Framework**: SwiftUI, Node.JS
 - **Third-Party Libraries**:
   - Firebase SDK
 
