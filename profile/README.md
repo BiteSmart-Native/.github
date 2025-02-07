@@ -1,6 +1,4 @@
-# Project Cancelled & Archives as of : 31/01/2025
-
-# **BiteSmart Native App**
+# **Journey To**
 
 Welcome to **BiteSmart**, the native iOS app designed to help you transform every byte into a healthier you! This app provides users with a seamless experience to manage their profiles, log in, and interact with features focused on user-friendly design and functionality.
 
